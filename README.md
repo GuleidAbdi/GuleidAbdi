@@ -2,13 +2,13 @@
 
 I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time coding outstanding projects.
 
-I am Junior software developer with 1 plus years of experience able to build . web applications from the ground up - information gathering, planning, design, development, testing and delivery and maintenance. Extremely passionate towards software architecture and design combined with sensitivity to serve the needs of the business balanced with the delivery of high quality solutions.
+I am Junior software developer with 1 plus years of experience able to build web applications from the ground up - information gathering, planning, design, development, testing and delivery and maintenance. Extremely passionate towards software architecture and design combined with sensitivity to serve the needs of the business balanced with the delivery of high quality solutions.
 
 Skills : .Javascript, Reac JS, Node JS., Mango DB, Visual Studio, Visual Basic, tailwind, Github, Web Services, CSS3, HTML 5. Strong arts and design professional with a Bachelor's degree focused in Computer Science from University of Hargeisa .
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Iam Guleid-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/GuleidAbdi12) [![Linkedin Badge](https://img.shields.io/badge/-Guleid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guleid-abdi-566a83177/) [![Mail Badge](https://img.shields.io/badge/-Mubarak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:guleidac@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Guleid1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/GuleidAbdi12) [![Linkedin Badge](https://img.shields.io/badge/-Guleid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guleid-abdi-566a83177/) [![Mail Badge](https://img.shields.io/badge/-Mubarak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:guleidac@gmail.com)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- TODO: Add last video link -->
