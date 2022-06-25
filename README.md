@@ -22,7 +22,7 @@ Skills : .Javascript, Reac JS, Node JS., Mango DB, Visual Studio, Visual Basic, 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MongoDB](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![React js Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#)
 
 #### Github Stats
 
