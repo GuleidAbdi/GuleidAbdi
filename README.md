@@ -4,7 +4,7 @@ I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time codi
 
 I am Junior software developer with 1 plus years of experience able to build . web applications from the ground up - information gathering, planning, design, development, testing and delivery and maintenance. Extremely passionate towards software architecture and design combined with sensitivity to serve the needs of the business balanced with the delivery of high quality solutions.
 
-Skills : .Javascript, Reac JS, Node JS., Mango DB, Visual Studio, Visual Basic, Bootstrap, Github, Web Services, CSS3, HTML 5. Strong arts and design professional with a Bachelor's degree focused in Computer Science from University of Hargeisa .
+Skills : .Javascript, Reac JS, Node JS., Mango DB, Visual Studio, Visual Basic, tailwind, Github, Web Services, CSS3, HTML 5. Strong arts and design professional with a Bachelor's degree focused in Computer Science from University of Hargeisa .
 
 :mailbox: Reach me out!
 
@@ -13,10 +13,10 @@ Skills : .Javascript, Reac JS, Node JS., Mango DB, Visual Studio, Visual Basic, 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learning Nodejs and GraphQL
+- 🔭 I’m currently learning Nodejs Rest API
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Frontend sides.
-- 📫 How to reach me: mubarakshabel0@gmail.com.
+- 📫 How to reach me: Guleidac@gmail.com.
 
 #### Top Technologies
 
