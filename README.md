@@ -8,7 +8,7 @@ Skills : .Javascript, Reac JS, Node JS., Mango DB, Visual Studio, Visual Basic, 
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge@GuleidAbdca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/GuleidAbdi12) [![Linkedin Badge](https://img.shields.io/badge/-Guleid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guleid-abdi-566a83177/) [![Mail Badge](https://img.shields.io/badge/-Mubarak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:guleidac@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge@GuleidAbdca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/GuleidAbdi12) [![Linkedin Badge](https://img.shields.io/badge/-Guleid-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guleid-abdi-566a83177/) [![Mail Badge](https://img.shields.io/badge/-Guleid-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:guleidac@gmail.com)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- TODO: Add last video link -->
